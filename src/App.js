@@ -58,7 +58,7 @@ function App() {
         />
 
         <h1 className="app__headText">Messenger </h1>
-        <h4 className="app__headUser"> Welcome, {username || "User"}😏🚀 </h4>
+        <h4 className="app__headUser"> Welcome, {username || "User"}👶🚀 </h4>
       </div>
 
       {/* if username 🆙 👆 isnt available then || output vishal 👆*/}
